@@ -18,12 +18,14 @@ Requirements for execution and development:
 
 The Spring Boot backend can be started using Gradle (using default port 8080):
 
-    backend/gradlew bootRun
+    cd backend
+    ./gradlew bootRun
 
 ### Frontend
 
 The React frontend is started with NPM:
 
+    cd frontend
     npm install
     npm run dev
 
