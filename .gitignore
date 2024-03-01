@@ -1,0 +1,14 @@
+.idea
+.gradle
+.settings
+.classpath
+.project
+*.ipr
+*.iml
+*.iws
+out
+.vagrant
+**/exploded/*
+build/
+bin/
+.env
