@@ -1,0 +1,16 @@
+.todo-list-container {
+  min-width: 300px;
+  width: fit-content;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  padding: 14px;
+  margin: 0 auto 32px auto;
+
+  .completed {
+    color: green;
+  }
+
+  .collapse-container {
+    margin-top: 16px;
+  }
+}
